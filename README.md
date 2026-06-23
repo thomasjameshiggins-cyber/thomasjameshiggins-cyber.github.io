@@ -1,4 +1,3 @@
-title: [Thomas Higgins]
 <p>&ldquo;<a href="https://mid-theory.com/2025/12/29/for-your-consideration-art-is-no-replacement-for-life/">For Your Consideration: Art Is No Replacement for Life</a>,&rdquo; <em>Mid Theory Collective </em>(2025)</p>
 <p>&ldquo;<a href="https://www.magpiezine.com/words/whats-human-thomas-higgins">What&rsquo;s Human</a>,&rdquo; <em>Magpie Zine </em>(2025)</p>
 <p>&ldquo;<a href="https://mid-theory.com/2025/02/18/mtc-oscar-series-the-substance/">MTC Oscar Series: THE SUBSTANCE</a>,&rdquo; <em>Mid Theory Collective </em>(2025)</p>
