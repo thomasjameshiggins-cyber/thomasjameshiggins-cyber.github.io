@@ -1,0 +1,22 @@
+yamlname: Production Deployment
+
+on:
+  push:
+    branches:
+      - main  # Triggers deployment on push to main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production  # Creates a GitHub Deployment for 'production'
+      url: https://your-app-url.com  # Links directly to your live app
+    
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Execute Deploy Script
+        run: |
+          echo "Deploying application to the production server..."
+          # Insert your actual deployment command here (e.g., aws, vercel, ssh)
