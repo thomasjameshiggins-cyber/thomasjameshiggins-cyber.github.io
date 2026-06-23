@@ -1,11 +1,1 @@
-title: Thomas Higgins
-description: “For Your Consideration: Art Is No Replacement for Life,” Mid Theory Collective (2025)
-“What’s Human,” Magpie Zine (2025)
-“MTC Oscar Series: THE SUBSTANCE,” Mid Theory Collective (2025)
-“Garlic,” The Inquisitive Eater – Munch Spring 2025 Issue (2025)
-“Exhaustive Fragments: A Review of Michael Ondaatje’s A Year of Last Things,” Mid Theory Collective (2024)
-“A Review of Rachael Allen’s God Complex,” The Adroit Journal (2024)
-“Revenants,” Hoxie Gorge Review (2023)
-“Like the Diver,” Red Ogre Review (2022)
-“Maps,” Sheila-Na-Gig online (2021)
-“The Street Cleaner’s Arrival,” The Westchester Review (2021)
+
